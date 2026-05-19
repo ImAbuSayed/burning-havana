@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/burning-havana/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Burning Havana](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/burning-havana/) |
+| **Get License** | [Get License For Burning Havana](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/burning-havana/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `cb88c626f2feab21bf523251688cac55bd8cede49e0230ced76f9df7d8f40808` |
 | **Timestamp** | May 19, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

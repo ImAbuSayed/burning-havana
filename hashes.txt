@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Burning Havana
+
+This log tracks the cryptographic history and versioning for the song **Burning Havana** (burning-havana).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-19T20:50:19.659654 | `v1` | `cb88c626f2feab21bf523251688cac55bd8cede49e0230ced76f9df7d8f40808` | `c9fab0f2836f24b06688343e328f263fbb97b0d5aebd9a81621faff3c69126e5` | `2026-05-19_burning-havana-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
