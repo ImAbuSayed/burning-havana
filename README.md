@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/burning-havana/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Burning Havana](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/burning-havana/) |
+| **Get License** | [Commercial Licensing for Burning Havana](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/burning-havana/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Kalli raat de hneray 'ch mera chase the vibe
+> Teri akhaan da jaadu karda hypnotize
+> Main labhda haan tainu under flashing lights
+> Mere dil di dhadkan hai just for the night
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
